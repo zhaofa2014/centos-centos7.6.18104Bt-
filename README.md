@@ -1,3 +1,5 @@
+docker仓库地址 https://cloud.docker.com/repository/docker/1872220587/centos
+
 # centos-centos7.6.18104Bt-
 centos:centos7.6.1810 安装liunx宝塔面板免费版 5.9.1
 
